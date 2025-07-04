@@ -1,4 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Zaid
+
+🎓 Software Engineering Student @ UET Mardan  
+📱 Flutter Developer | Cross-platform mobile apps  
+💡 Clean UI/UX + Responsive Design  
+🔥 Firebase, REST APIs, Git, VS Code  
+📊 Exploring data dashboards using Streamlit  
+🚀 Let’s build something great!
+
+<!-- GitHub Stats or Projects can be added below -->
+
 
 <!--
 **mxaid352/mxaid352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
